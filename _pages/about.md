@@ -20,6 +20,8 @@ It is extremely excited to announce that I am going to stay in our [LONG Group](
 - IterIS: Iterative Inference-Solving Alignment for LoRA Merging[[pdf](https://arxiv.org/abs/2411.15231)]  
   **Hongxu Chen**, Zhen Wang, Runshi Li, Bowei Zhu, Long Chen  
   Computer Vision and Pattern Recognition (CVPR 2025)
+- Zero-Residual Concept Erasure via Progressive Alignment in Text-to-Image Model[[pdf](https://arxiv.org/abs/2508.04472)]
+  **Hongxu Chen**, Zhen Wang, Taoran Mei, Lin Li, Bowei Zhu, Runshi Li, Long Chen
 
 ### Honors & Awards
 - Tsung Dao Lee Prize, Top 3 in Cohort (李政道奖学金)
