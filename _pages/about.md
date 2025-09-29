@@ -24,7 +24,7 @@ Please feel free to contact me if you have any questions about my projects or an
   **Hongxu Chen**, Zhen Wang, Taoran Mei, Lin Li, Bowei Zhu, Runshi Li, Long Chen
 
 ### Internship
-- [Long Group](https://long-group.cse.ust.hk/), CSE department, HKUST, 2024.7 —— 2023-12
+- [Long Group](https://long-group.cse.ust.hk/), CSE department, HKUST, 2024.7 — 2023-12
 
 ### Honors & Awards
 - Tsung Dao Lee Prize, Top 3 in Cohort
