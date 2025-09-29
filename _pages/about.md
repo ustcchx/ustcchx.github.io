@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-I am a first-year PhD student in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology. I received my bachelor’s degree from the **School of the Gifted Young, University of Science and Technology of China (中科大少年班学院)**.
+I am a first-year PhD student in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology. I received my bachelor’s degree from the School of the Gifted Young, University of Science and Technology of China (中科大少年班学院).
 
 My current research focuses on the theory of generative modeling, with a particular interest in **flow matching models**. I have also worked on model editing and efficient transfer learning, with a focus on parameter and memory efficiency.
 
