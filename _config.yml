@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Hongxu Chen"
   avatar           : "me_cute.png"
-  bio              : "Passion, Patience, PedFields          : ['name', 'email', 'url', 'message']
+  bio              : "Passion, Patience, Peace" 
+  PedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
