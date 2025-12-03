@@ -8,7 +8,7 @@ author_profile: true
 
 I am a first-year PhD student in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology. I received my bachelor’s degree from the School of the Gifted Young, University of Science and Technology of China (中科大少年班学院).
 
-My current research focuses on the theory of generative modeling, with a particular interest in **flow matching models**. I have also worked on model editing and efficient transfer learning, with a focus on parameter and memory efficiency.
+My current research focuses on generative modeling, with a particular interest in **flow matching & diffusion models**. I have also worked on model merging and efficient transfer learning, with a focus on parameter and memory efficiency.
 
 I am advised by [Prof. Long Chen](https://zjuchenlong.github.io/) and collaborate closely with [Dr. Wang](https://scholar.google.com/citations?user=eQ-G_bQAAAAJ&hl=zh-CN), [Hongxiang Li](https://lihx-me.github.io/), and [Runshi Li](https://github.com/stflrs). Before joining HKUST, I conducted research under the supervision of [Prof. Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/) at USTC.
 
