@@ -30,6 +30,5 @@ Please feel free to contact me if you have any questions about my projects or an
 - Tsung Dao Lee Prize, Top 3 in Cohort
 - Outstanding Undergraduate Thesis Award, top 5%
 - Bronze Award, Outstanding Student Scholarship
-- Second Prize, 35th Chinese High School Mathematics League, Top 1 in Cohort
 
 
