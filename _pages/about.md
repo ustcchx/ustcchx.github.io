@@ -10,7 +10,7 @@ I am a first-year PhD student in the Department of Computer Science and Engineer
 
 My current research focuses on the theory of generative modeling, with a particular interest in **flow matching models**. I have also worked on model editing and efficient transfer learning, with a focus on parameter and memory efficiency.
 
-I am advised by [Prof. Long Chen](https://zjuchenlong.github.io/) and collaborate closely with [Dr. Wang](https://scholar.google.com/citations?user=eQ-G_bQAAAAJ&hl=zh-CN) and [Runshi Li](https://github.com/stflrs). Before joining HKUST, I conducted research under the supervision of [Prof. Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/) at USTC.
+I am advised by [Prof. Long Chen](https://zjuchenlong.github.io/) and collaborate closely with [Dr. Wang](https://scholar.google.com/citations?user=eQ-G_bQAAAAJ&hl=zh-CN), [Hongxiang Li](https://lihx-me.github.io/), and [Runshi Li](https://github.com/stflrs). Before joining HKUST, I conducted research under the supervision of [Prof. Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/) at USTC.
 
 Please feel free to contact me if you have any questions about my projects or anything else.
   
