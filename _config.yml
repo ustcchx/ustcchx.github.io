@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hongxu Chen"
   avatar           : "me.png"
-  bio              : "逆熵而食" 
+  bio              : "逆熵为食" 
   PedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
