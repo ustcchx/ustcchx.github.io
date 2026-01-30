@@ -17,10 +17,12 @@ Please feel free to contact me if you have any questions about my projects or an
 [[Email](mailto:hongxuchen@mail.ustc.edu.cn)][[HuggingFace](https://huggingface.co/Daxuxu36)][[Xiaohongshu](https://www.xiaohongshu.com/user/profile/62c6e4b5000000000e00ce57)]
 
 ### Publications
+- Bi-Anchor Interpolation Solver for Accelerating Generative Modeling [[pdf](https://arxiv.org/abs/2601.21542)]
+  **Hongxu Chen**, Hongxiang Li, Zhen Wang, Long Chen 
 - IterIS: Iterative Inference-Solving Alignment for LoRA Merging[[pdf](https://arxiv.org/abs/2411.15231)]  
   **Hongxu Chen**, Zhen Wang, Runshi Li, Bowei Zhu, Long Chen  
   Computer Vision and Pattern Recognition (CVPR 2025)
-- Zero-Residual Concept Erasure via Progressive Alignment in Text-to-Image Model[[pdf](https://arxiv.org/abs/2508.04472)]
+- Zero-Residual Concept Erasure via Progressive Alignment in Text-to-Image Model[[pdf](https://arxiv.org/abs/2508.04472)]  
   **Hongxu Chen**, Zhen Wang, Taoran Mei, Lin Li, Bowei Zhu, Runshi Li, Long Chen
 
 ### Internship
