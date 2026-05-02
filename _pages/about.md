@@ -8,7 +8,7 @@ author_profile: true
 
 I am a first-year PhD student in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology. I received my bachelor’s degree from the School of the Gifted Young, University of Science and Technology of China (中科大少年班学院). I am advised by [Prof. Long Chen](https://zjuchenlong.github.io/) and collaborate closely with [Dr. Wang](https://scholar.google.com/citations?user=eQ-G_bQAAAAJ&hl=zh-CN) and [Hongxiang Li](https://lihx-me.github.io/). Before joining HKUST, I conducted research under the supervision of [Prof. Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/) at USTC.
 
-My current research focuses on generative modeling, with a particular interest in **Accelerating**. I have also worked on model merging and efficient transfer learning, with a focus on parameter and memory efficiency.
+My current research focuses on generative modeling, with a particular interest in **Accelerating**. I have also worked on model merging and parameter efficient fine-tuning (PEFT).
 
 Please feel free to contact me if you have any questions about my projects or anything else.
   
@@ -16,7 +16,8 @@ Please feel free to contact me if you have any questions about my projects or an
 
 ### Publications
 - Bi-Anchor Interpolation Solver for Accelerating Generative Modeling[[pdf](https://arxiv.org/abs/2601.21542)]  
-  **Hongxu Chen**, Hongxiang Li, Zhen Wang, Long Chen 
+  **Hongxu Chen**, Hongxiang Li, Zhen Wang, Long Chen
+  International Conference on Machine Learning (ICML 2026)
 - IterIS: Iterative Inference-Solving Alignment for LoRA Merging[[pdf](https://arxiv.org/abs/2411.15231)]  
   **Hongxu Chen**, Zhen Wang, Runshi Li, Bowei Zhu, Long Chen  
   Computer Vision and Pattern Recognition (CVPR 2025)
