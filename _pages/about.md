@@ -16,7 +16,7 @@ Please feel free to contact me if you have any questions about my projects or an
 
 ### Publications
 - Bi-Anchor Interpolation Solver for Accelerating Generative Modeling[[pdf](https://arxiv.org/abs/2601.21542)]  
-  **Hongxu Chen**, Hongxiang Li, Zhen Wang, Long Chen
+  **Hongxu Chen**, Hongxiang Li, Zhen Wang, Long Chen  
   International Conference on Machine Learning (ICML 2026)
 - IterIS: Iterative Inference-Solving Alignment for LoRA Merging[[pdf](https://arxiv.org/abs/2411.15231)]  
   **Hongxu Chen**, Zhen Wang, Runshi Li, Bowei Zhu, Long Chen  
