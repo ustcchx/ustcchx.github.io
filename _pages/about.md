@@ -15,7 +15,7 @@ Please feel free to contact me if you have any questions about my projects or an
 [[Email 1](mailto:hongxuchen@mail.ustc.edu.cn)][[Email 2](mailto:hchenej@connect.ust.hk)][[HuggingFace](https://huggingface.co/Daxuxu36)]
 
 ### Publications
-- Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation[[pdf](xxx)]  
+- Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation[[pdf](https://arxiv.org/abs/2605.05054)]  
   **Hongxu Chen**, Yanghao Wang, Bowei Zhu, Hongxiang Li, Wang Zhen, Ziqi Jiang, Lin Li, Rui Liu, Long Chen    
 - Bi-Anchor Interpolation Solver for Accelerating Generative Modeling[[pdf](https://arxiv.org/abs/2601.21542)]  
   **Hongxu Chen**, Hongxiang Li, Zhen Wang, Long Chen  
