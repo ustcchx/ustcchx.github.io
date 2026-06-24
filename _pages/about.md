@@ -20,7 +20,7 @@ Please feel free to contact me if you have any questions about my projects or an
 - Bi-Anchor Interpolation Solver for Accelerating Generative Modeling[[pdf](https://arxiv.org/abs/2601.21542)]  
   **Hongxu Chen**\*, Hongxiang Li\*, Zhen Wang, Long Chen  
   International Conference on Machine Learning (ICML 2026)
-- SPAR: Semantic-Pixel Self-Alignment and Adaptive Routing for Unified Multimodal Models  
+- SPAR: Semantic-Pixel Self-Alignment and Adaptive Routing for Unified Multimodal Models[[web](https://hkust-longgroup.github.io/SPAR/)]  
   Hongxiang Li\*, **Hongxu Chen**\*, Chenyang Zhu, Xiaoshuang Huang, Jiayin Cai, Xiaolong Jiang, Yao Hu, Long Chen  
   European Conference on Computer Vision (ECCV 2026)  
 - IterIS: Iterative Inference-Solving Alignment for LoRA Merging[[pdf](https://arxiv.org/abs/2411.15231)]  
