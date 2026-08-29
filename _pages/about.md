@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-I am a first-year PhD student in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology (HKUST), advised by [Prof. Long Chen](https://zjuchenlong.github.io/). I received my bachelor’s degree from the School of the Gifted Young, University of Science and Technology of China (USTC), where I conducted research under the supervision of [Prof. Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/).
+I am a second-year PhD student in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology (HKUST), advised by [Prof. Long Chen](https://zjuchenlong.github.io/). I received my bachelor’s degree from the School of the Gifted Young, University of Science and Technology of China (USTC), where I conducted research under the supervision of [Prof. Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/).
 
 My current research focuses on generative modeling (e.g., flow matching and diffusion models). Previously, I worked on model merging and parameter efficient fine-tuning.
 
