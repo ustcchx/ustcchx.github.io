@@ -18,7 +18,7 @@ Please feel free to contact me if you have any questions about my projects or an
 - LISA: Likelihood Score Alignment for Visual-condition Controllable Generation[[pdf](https://arxiv.org/abs/2606.27192)]  
   Yanghao Wang, **Hongxu Chen**, Jiazhen Liu, Zhenqi He, Rui Liu, Zhen Wang, Long Chen  
 - Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation[[pdf](https://arxiv.org/abs/2605.05054)]  
-  **Hongxu Chen**, Yanghao Wang, Bowei Zhu, Hongxiang Li, Wang Zhen, Ziqi Jiang, Lin Li, Rui Liu, Long Chen
+  **Hongxu Chen**, Yanghao Wang, Bowei Zhu, Hongxiang Li, Wang Zhen, Ziqi Jiang, Lin Li, Rui Liu, Long Chen  
   Conference on Neural Information Processing Systems (NeurIPS 2026)    
 - Bi-Anchor Interpolation Solver for Accelerating Generative Modeling[[pdf](https://arxiv.org/abs/2601.21542)]  
   **Hongxu Chen**\*, Hongxiang Li\*, Zhen Wang, Long Chen  
