@@ -31,7 +31,7 @@ Please feel free to contact me if you have any questions about my projects or an
   Computer Vision and Pattern Recognition (CVPR 2025)
 - Zero-Residual Concept Erasure via Progressive Alignment in Text-to-Image Model[[pdf](https://arxiv.org/abs/2508.04472)]  
   **Hongxu Chen**, Zhen Wang, Taoran Mei, Lin Li, Bowei Zhu, Runshi Li, Long Chen  
-  Outstanding Undergraduate Thesis
+  USTC Outstanding Undergraduate Thesis
 
 ### Internship
 - [Long Group](https://long-group.cse.ust.hk/), CSE department, HKUST, 2024.7 — 2024.12
