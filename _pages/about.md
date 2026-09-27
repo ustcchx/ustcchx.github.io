@@ -19,16 +19,16 @@ Please feel free to contact me if you have any questions about my projects or an
   Yanghao Wang, **Hongxu Chen**, Jiazhen Liu, Zhenqi He, Rui Liu, Zhen Wang, Long Chen  
 - Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation[[pdf](https://arxiv.org/abs/2605.05054)]  
   **Hongxu Chen**, Yanghao Wang, Bowei Zhu, Hongxiang Li, Wang Zhen, Ziqi Jiang, Lin Li, Rui Liu, Long Chen  
-  Conference on Neural Information Processing Systems (NeurIPS 2026)    
+  Conference on Neural Information Processing Systems (**NeurIPS 2026**)    
 - Bi-Anchor Interpolation Solver for Accelerating Generative Modeling[[pdf](https://arxiv.org/abs/2601.21542)]  
   **Hongxu Chen**\*, Hongxiang Li\*, Zhen Wang, Long Chen  
-  International Conference on Machine Learning (ICML 2026)
+  International Conference on Machine Learning (**ICML 2026**)
 - SPAR: Semantic-Pixel Self-Alignment and Adaptive Routing for Unified Multimodal Models[[web](https://hkust-longgroup.github.io/SPAR/)]  
   Hongxiang Li\*, **Hongxu Chen**\*, Chenyang Zhu, Xiaoshuang Huang, Jiayin Cai, Xiaolong Jiang, Yao Hu, Long Chen  
-  European Conference on Computer Vision (ECCV 2026)  
+  European Conference on Computer Vision (**ECCV 2026**)  
 - IterIS: Iterative Inference-Solving Alignment for LoRA Merging[[pdf](https://arxiv.org/abs/2411.15231)]  
   **Hongxu Chen**, Zhen Wang, Runshi Li, Bowei Zhu, Long Chen  
-  Computer Vision and Pattern Recognition (CVPR 2025)
+  Computer Vision and Pattern Recognition (**CVPR 2025**)
 - Zero-Residual Concept Erasure via Progressive Alignment in Text-to-Image Model[[pdf](https://arxiv.org/abs/2508.04472)]  
   **Hongxu Chen**, Zhen Wang, Taoran Mei, Lin Li, Bowei Zhu, Runshi Li, Long Chen  
   USTC Outstanding Undergraduate Thesis
