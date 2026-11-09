@@ -21,7 +21,7 @@ Please feel free to contact me if you have any questions about my projects or an
   **Hongxu Chen**, Yanghao Wang, Bowei Zhu, Hongxiang Li, Wang Zhen, Ziqi Jiang, Lin Li, Rui Liu, Long Chen  
   Conference on Neural Information Processing Systems (**NeurIPS 2026**)    
 - Bi-Anchor Interpolation Solver for Accelerating Generative Modeling[[pdf](https://arxiv.org/abs/2601.21542)]  
-  **Hongxu Chen**\*, Hongxiang Li\*, Zhen Wang, Long Chen  
+  **Hongxu Chen**\, Hongxiang Li\, Zhen Wang, Long Chen  
   International Conference on Machine Learning (**ICML 2026**)
 - SPAR: Semantic-Pixel Self-Alignment and Adaptive Routing for Unified Multimodal Models[[web](https://hkust-longgroup.github.io/SPAR/)]  
   Hongxiang Li\*, **Hongxu Chen**\*, Chenyang Zhu, Xiaoshuang Huang, Jiayin Cai, Xiaolong Jiang, Yao Hu, Long Chen  
