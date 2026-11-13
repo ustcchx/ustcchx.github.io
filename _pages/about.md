@@ -37,8 +37,8 @@ Please feel free to contact me if you have any questions about my projects or an
 - [Long Group](https://long-group.cse.ust.hk/), CSE department, HKUST, 2024.7 — 2024.12
 
 ### Honors & Awards
-- Tsung Dao Lee Prize, Top 3 in Cohort
-- Outstanding Undergraduate Thesis Award, top 5%
-- Bronze Award, Outstanding Student Scholarship
+- **Tsung Dao Lee Prize**, **Top 3** in Cohort
+- **Outstanding Undergraduate Thesis Award**, **top 5%**
+- **Bronze Award**, Outstanding Student Scholarship
 
 
