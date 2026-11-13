@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-I am a second-year PhD student in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology (HKUST), advised by [Prof. Long Chen](https://zjuchenlong.github.io/). I received my bachelor’s degree from the School of the Gifted Young, University of Science and Technology of China (USTC), where I conducted research under the supervision of [Prof. Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/).
+I am a second-year PhD student in the Department of Computer Science and Engineering (**CSE**) at the Hong Kong University of Science and Technology (**HKUST**), advised by [Prof. Long Chen](https://zjuchenlong.github.io/). I received my bachelor’s degree from the School of the Gifted Young (**SGY**), University of Science and Technology of China (**USTC**), where I conducted research under the supervision of [Prof. Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/).
 
 My current research focuses on generative modeling (e.g., flow matching and diffusion models). Previously, I worked on model merging and parameter efficient fine-tuning.
 
@@ -16,13 +16,13 @@ Please feel free to contact me if you have any questions about my projects or an
 
 ### Publications
 - LISA: Likelihood Score Alignment for Visual-condition Controllable Generation[[pdf](https://arxiv.org/abs/2606.27192)]  
-  Yanghao Wang, **Hongxu Chen**, Jiazhen Liu, Zhenqi He, Rui Liu, Zhen Wang, Long Chen  
+  Yanghao Wang, **Hongxu Chen**, Jiazhen Liu, Zhenqi He, Rui Liu, Zhen Wang, Long Chen
+- Bi-Anchor Interpolation Solver for Accelerating Generative Modeling[[pdf](https://arxiv.org/abs/2601.21542)]  
+  **Hongxu Chen**\*, Hongxiang Li\*, Zhen Wang, Long Chen  
+  International Conference on Machine Learning (**ICML 2026**) 
 - Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation[[pdf](https://arxiv.org/abs/2605.05054)]  
   **Hongxu Chen**, Yanghao Wang, Bowei Zhu, Hongxiang Li, Wang Zhen, Ziqi Jiang, Lin Li, Rui Liu, Long Chen  
   Conference on Neural Information Processing Systems (**NeurIPS 2026**)    
-- Bi-Anchor Interpolation Solver for Accelerating Generative Modeling[[pdf](https://arxiv.org/abs/2601.21542)]  
-  **Hongxu Chen**\*, Hongxiang Li\*, Zhen Wang, Long Chen  
-  International Conference on Machine Learning (**ICML 2026**)
 - SPAR: Semantic-Pixel Self-Alignment and Adaptive Routing for Unified Multimodal Models[[web](https://hkust-longgroup.github.io/SPAR/)]  
   Hongxiang Li\*, **Hongxu Chen**\*, Chenyang Zhu, Xiaoshuang Huang, Jiayin Cai, Xiaolong Jiang, Yao Hu, Long Chen  
   European Conference on Computer Vision (**ECCV 2026**)  
