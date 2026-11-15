@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hongxu Chen(陈鸿绪)"
+title: "Hongxu Chen (陈鸿绪)"
 excerpt: "About me"
 author_profile: true
 
