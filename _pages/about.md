@@ -14,7 +14,7 @@ Please feel free to contact me if you have any questions about my projects or an
   
 [[Email 1](mailto:hongxuchen@mail.ustc.edu.cn)][[Email 2](mailto:hchenej@connect.ust.hk)][[HuggingFace](https://huggingface.co/Daxuxu36)]
 
-### Publications
+### Selected Publications
 - LISA: Likelihood Score Alignment for Visual-condition Controllable Generation[[pdf](https://arxiv.org/abs/2606.27192)]  
   Yanghao Wang, **Hongxu Chen**, Jiazhen Liu, Zhenqi He, Rui Liu, Zhen Wang, Long Chen
 - Bi-Anchor Interpolation Solver for Accelerating Generative Modeling[[pdf](https://arxiv.org/abs/2601.21542)]  
