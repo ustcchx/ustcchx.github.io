@@ -19,7 +19,7 @@ Please feel free to contact me if you have any questions about my projects or an
   **Hongxu Chen**\*, Hongxiang Li\*, Zhen Wang, Long Chen  
   International Conference on Machine Learning (**ICML 2026**)  
 - Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation[[pdf](https://arxiv.org/abs/2605.05054)]  
-  **Hongxu Chen**, Yanghao Wang, Bowei Zhu, Hongxiang Li, Wang Zhen, Ziqi Jiang, Lin Li, Rui Liu, Long Chen  
+  **Hongxu Chen**, Yanghao Wang, Bowei Zhu, Hongxiang Li, Zhen Wang, Ziqi Jiang, Lin Li, Rui Liu, Long Chen  
   Conference on Neural Information Processing Systems (**NeurIPS 2026**)  
 - IterIS: Iterative Inference-Solving Alignment for LoRA Merging[[pdf](https://arxiv.org/abs/2411.15231)]  
   **Hongxu Chen**, Zhen Wang, Runshi Li, Bowei Zhu, Long Chen  
