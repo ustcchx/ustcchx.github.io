@@ -42,4 +42,4 @@ Please feel free to contact me if you have any questions about my projects or an
 - **Bronze Award**, Outstanding Student Scholarship
 
 ### Misc.
-- Born in 2004, I grew up in Anhui, China, and spent four wonderful undergraduate years in my home province at USTC.
+- Born in 2004, I grew up in Xuancheng, Anhui, China, and spent four wonderful undergraduate years in my home province at USTC.
