@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-I am a second-year PhD student in the Department of Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST), advised by [Prof. Long Chen](https://zjuchenlong.github.io/). I received my bachelor’s degree from the School of the Gifted Young (SGY), University of Science and Technology of China (USTC), where I conducted research under the supervision of [Prof. Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/).
+I am a second-year PhD candidate in the Department of Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST), advised by [Prof. Long Chen](https://zjuchenlong.github.io/). I received my bachelor’s degree from the School of the Gifted Young (SGY), University of Science and Technology of China (USTC), where I conducted research under the supervision of [Prof. Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/).
 
 My current research focuses on **visual generative modeling** (flow matching and diffusion models), with a particular emphasis on **latent space geometry**/**visual tokenizers**, **representation alignment**, and **fast-sampling**/**guidance dynamics**. Previously, I worked on model merging and parameter-efficient fine-tuning (PEFT).
 
